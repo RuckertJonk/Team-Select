@@ -8,6 +8,14 @@
 
 ---
 
+
+## Screenshot  
+Zo ziet de website eruit:
+
+![Website Screenshot](screenshot.png)
+
+---
+
 ## Teams
 - Fight Club  
 - Cobra Kai / Miyagi Do  
